@@ -37,6 +37,7 @@ public class MainTest {
         } catch (Exception ex) {
             ex.printStackTrace();
         }
+        // test kolaborasi
         System.out.println("--- PASIEN ---");
         System.out.println("Nama            : " + pas1.getNama());
         System.out.println("Alamat          : " + pas1.getAlamat());
